@@ -1,0 +1,43 @@
+.bg-img {
+    background: #fff url("./images/blue\ lake.jpg") center center;
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+    position: absolute;
+    opacity: 0.5;
+}
+
+.col {
+    position: relative;
+}
+
+
+/* Portfolio contents */
+
+.figcaption {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/* Portfolio contents */
+
+
+
+
+/* footer */
+.footer-section {
+    padding-top: 24px;
+    margin: 0;
+    width: 100%;
+  }
+  
+  .section-on-footer {
+    margin-bottom: 0;
+  }
+  
+  .shadow-down {
+    position: relative;
+  }
+  
+  
+  /* footer */
